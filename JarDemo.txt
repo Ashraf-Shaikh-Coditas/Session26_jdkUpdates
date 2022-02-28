@@ -1,0 +1,15 @@
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Name One is :: "+args[0]);
+        System.out.println("Name Two is :: "+args[1]);
+    }
+}
+
+/*  CONSOLE OUTPUT :
+
+jar C:\Users\Coditas\IdeaProjects\JarDemo\out\artifacts\JarDemo_jar\JarDemo.jar Ashraf Shaikh
+Name One is :: Ashraf
+Name Two is :: Shaikh
+
+*/
